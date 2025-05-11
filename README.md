@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer who is passionate about building dynamic, scalable, and user-friendly web applications using MERN Stack and NextJS. I thrive on creating scalable solutions that enhance user experiences. I always eager to learn new technologies and collaborate on exciting projects.
+Hello! I'm a Full Stack Developer who loves to build dynamic, scalable, responsive and user-friendly web applications. I'm expert in building robust solutions using MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js.
 
 
 ## 🌐 Socials:
